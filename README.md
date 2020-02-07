@@ -33,3 +33,4 @@ sudo pip install oauth2client requests httplib2
 3.  Configured the local timezone to UTC.
 4.  Configured Apache to serve a Python mod_wsgi application (Catalog App)
 5.  Configured PostgreSQL, by creating new database user **catalog** and a database named **catalog**, giving limited permissions and not allowing not remote connections.
+6.  Used Full-Stack Web Developer: Deploying to Linux Server videos to setup the server and to get AWS Lightsail instance running.
